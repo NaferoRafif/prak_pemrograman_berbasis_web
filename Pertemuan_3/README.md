@@ -14,8 +14,21 @@ Berikut adalah penjelasan lima bagian kode/query SQL utama yang digunakan dalam 
 
 ## 2. Tangkapan Layar (Documentation)
 
-Seluruh screenshot hasil sebelum dan sesudah modifikasi dapat dilihat pada folder `pertemuan 3/`.
+### Tabel Dosen
+* **Sebelum (Before):**
+  ![Dosen Before](./Screenshot/dosen%20(before).png)
 
+* **Sesudah (After):**
+  ![Dosen After](./Screenshot/dosen%20(after).png)
+
+---
+
+### Tabel Mata Kuliah
+* **Sebelum (Before):**
+  ![Mata Kuliah Before](./Screenshot/mata_kuliah%20(before).png)
+
+* **Sesudah (After):**
+  ![Mata Kuliah After](./Screenshot/mata_kuliah%20(after).png)
 ---
 
 ## 3. Penanganan Error (Troubleshooting)
